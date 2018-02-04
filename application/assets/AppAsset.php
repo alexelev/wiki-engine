@@ -24,6 +24,7 @@ class AppAsset extends AssetBundle
         'css/WikiPages.css',
     ];
     public $js = [
+        'js/tmp.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
